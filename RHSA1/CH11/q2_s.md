@@ -1,0 +1,6 @@
+A __________ is a configuration used for a device which is made up of a collection of settings.
+* network
+* service
++ connection
+* ethernet
+* manager
