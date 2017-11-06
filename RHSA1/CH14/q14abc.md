@@ -2,5 +2,5 @@ Which command used for more detailed information about the space used by a certa
 * su
 * mu
 * home
-+ do
++ du
 * vir
