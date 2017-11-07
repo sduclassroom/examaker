@@ -4,6 +4,3 @@ Which of the following instructions do not consist in a process?
 * security properties including ownership credentials and privileges
 * one or more execution threads of program code
 * process state
-
-
-
