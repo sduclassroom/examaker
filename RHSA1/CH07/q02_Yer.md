@@ -1,4 +1,4 @@
-Which command is used for listening current process?
+Which command is used for listing current process?
 + ps
 * kill
 * chown
