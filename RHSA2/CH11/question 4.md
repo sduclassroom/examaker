@@ -1,6 +1,6 @@
 What is NFC?
 * New Fork Control
-+ Network File System
-* Network Fork System
-* Network Focus Sytem
-* New Figure Sky
++ Network File Control
+* Network Fork Control
+* Network Focus Control
+* New Figure Control
