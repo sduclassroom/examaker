@@ -1,6 +1,6 @@
 Which command is used for listening current process?
 + ps
+* kill
 * chown
-* ls -
 * vim
 * cat
