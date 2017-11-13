@@ -7,6 +7,7 @@ fred fred,mertz
 ```
 There is permissions for files below, who can change the contents of lfile1
 ```
+drwxrwxr-x ricky  ricardo directoryname
 -rw-rw-r-- lucy   lucy    lfile1
 -rw-r--rw- lucy   ricardo lfile2
 -rw-rw-r-- ricky  ricardo rfile1
@@ -19,6 +20,6 @@ There is permissions for files below, who can change the contents of lfile1
 
 +`only lucy`
 
-*`lucy and fred`
+*`lucy and ricardo`
 
 *`fred and ricky`
