@@ -5,7 +5,7 @@ ricky ricky,ricardo
 ethel ethel,mertz
 fred fred,mertz
 ```
-There is permissions for files below, who can change the contents of lfile1
+There is permissions for files below, who can change the contents of `lfile1` ?
 ```
 drwxrwxr-x ricky  ricardo directoryname
 -rw-rw-r-- lucy   lucy    lfile1
