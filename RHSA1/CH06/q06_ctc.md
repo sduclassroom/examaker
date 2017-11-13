@@ -1,11 +1,11 @@
-In which permission, File executes as the group that owns the file?
+In which permission, file executes as the group that owns the file?
 
-*`execute`
+* `execute`
 
-+`setgid`
++ `setgid`
 
-*`read`
+* `read`
 
-*`setuid`
+* `setuid`
 
-*`sticky`
+* `sticky`
