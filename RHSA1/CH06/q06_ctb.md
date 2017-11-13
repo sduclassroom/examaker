@@ -1,4 +1,4 @@
-Which command will remove read and write permission for eveyone on `file1`?
+Which command will remove read and write permission for eveyone on  `file1` ?
 
 *`chmod a+x file1`
 
