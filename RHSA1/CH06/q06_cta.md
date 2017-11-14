@@ -14,12 +14,12 @@ drwxrwxr-x ricky  ricardo directoryname
 -rw-r----- ricky  ricardo rfile2
 ```
 
-*`ricky and ethel`
+* `ricky and ethel`
 
-*`only fred`
+* `only fred`
 
-+`only lucy`
++ `only lucy`
 
-*`lucy and ricardo`
+* `lucy and ricardo`
 
-*`fred and ricky`
+* `fred and ricky`
