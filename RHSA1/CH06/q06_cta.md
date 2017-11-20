@@ -1,4 +1,4 @@
-Consider the following users and their groups: `lucy lucy,ricardo`, `ricky ricky,ricardo`, `ethel ethel,mertz`, `fred fred,mertz`. Given the below permissions `text` file, who can can change the contents of the file?
+Consider the following users and their groups: `lucy: (lucy,ricardo)`, `ricky: (ricky,ricardo)`, `ethel: (ethel,mertz)`, `fred: (fred,mertz)`. Given the below permissions `text` file, who can can change the contents of the file?
 ```
 -rw-rw-r-- lucy   lucy    text
 ```
