@@ -4,4 +4,4 @@ What command is used to quit Vim, but discard all file changes since the last wr
 + `:q!`
 * `:wq`
 * `:w`
-* `:exit'
+* `:exit`
