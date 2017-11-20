@@ -1,5 +1,7 @@
 The format for a change command is:
--         operator   [number]   motion
+```
+operator   [number]   motion
+```
 In this format, for what is responsible a [number]? 
                
 * `is what to do, such as  d  for delete`
