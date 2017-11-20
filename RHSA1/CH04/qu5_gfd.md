@@ -1,11 +1,8 @@
-5) What command can be used to edit all kinds of plain text?
+What command is an editor to create or edit a text file?
 
 * `ls`
-
 + `vim`
-
 * `cat`
-
-* `gedit`
-
++ `gedit`
 * `touch` 
+* `chmod`
