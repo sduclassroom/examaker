@@ -1,25 +1,11 @@
-Users and their groups:
+Consider the following users and their groups: `lucy lucy,ricardo`, `ricky ricky,ricardo`, `ethel ethel,mertz`, `fred fred,mertz`. Given the below permissions `text` file, who can can change the contents of the file?
 ```
-lucy lucy,ricardo
-ricky ricky,ricardo
-ethel ethel,mertz
-fred fred,mertz
-```
-There is permissions for files below, who can change the contents of `lfile1` ?
-```
-drwxrwxr-x ricky  ricardo directoryname
--rw-rw-r-- lucy   lucy    lfile1
--rw-r--rw- lucy   ricardo lfile2
--rw-rw-r-- ricky  ricardo rfile1
--rw-r----- ricky  ricardo rfile2
+-rw-rw-r-- lucy   lucy    text
 ```
 
 * `ricky and ethel`
-
 * `only fred`
-
 + `only lucy`
-
 * `lucy and ricardo`
-
 * `fred and ricky`
+* not enough information to answer
