@@ -9,8 +9,8 @@ We have the following lines:
 
 How to delete a whole line?
 
-* 'x'
-* 'd$'
-+ 'dd'
-* '2dd'
-* 'dw'
+* `x`
+* `d$`
++ `dd`
+* `2dd`
+* `dw`
