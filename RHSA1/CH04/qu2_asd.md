@@ -1,7 +1,8 @@
-A command that creates file new as a concatenation of file1 and file2.
+A command that used to open the __Enter a Command__ dialog box..
 
-* `mv file[12] new`
-+ `cat file[12] > new`
-* `cat file[12] | new`
-* `cat file[12] 2>new`
-* `cp file1 file2 new`
+* `Ctrl+c`
+* `Ctrl+v`
++ `Alt+f2`
+* `Alt+f5`
+* `Ctrl+alt`
+
