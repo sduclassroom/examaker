@@ -6,5 +6,5 @@ running on the system.
 * `systemctl`
 + `rsyslog`
 * `systemd`
-* `journald
+* `journald`
   
