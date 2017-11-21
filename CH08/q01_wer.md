@@ -1,5 +1,0 @@
-gsfxhshx
-
-* `FGH`
-
-+ `DGG`
