@@ -1,8 +1,9 @@
-The combination of keystrokes that quits from a shell.
+What command does the Spacebar perform?
 
-* `Ctrl+Z`
-* `Ctrl+C`
-* `Ctrl+X`
-+ `Ctrl+D`
-* `Shift+Z`
-* `Ctrl+Alt+Del`
+* Scroll backword(up) one screen
++ Scroll forward(down) one screen
+* Go start of the man pages
+* Scroll back(up) one line
+* Scroll forward(down) one half-screen
+* Scroll backword(up) one half-screen
+
