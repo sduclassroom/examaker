@@ -1,8 +1,8 @@
-The combination of keystrokes that quits from a shell.
+Reading documentation in
 
-* `Ctrl+Z`
-* `Ctrl+C`
-* `Ctrl+X`
-+ `Ctrl+D`
-* `Shift+Z`
-* `Ctrl+Alt+Del`
+* /usr/doc
++ /usr/share/doc
+* /usr/share/rsyslog/doc
+* /usr/log/doc
+* /usr/share/bc/doc
+* /usr/yum/doc
