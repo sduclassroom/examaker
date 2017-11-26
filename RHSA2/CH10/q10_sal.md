@@ -1,8 +1,8 @@
-To print the last N lines from the log file. Which option can I use?
+I have a growing log file, for which I want to display only the last 20 lines. Which one is correct?
 
-+ --lines=N
-* --line=N
-* --lines==N
-* -/lines/=n
-*  -lines=N-
-*  -line=N
++ tail -n 20 -F mylogfile.txt
+* tail -n 20 mylogfile.txt
+* tail -n 20 -с mylogfile.txt
+* tail -n 15 -F mylogfile.txt
+* tail -n 20 -F
+* tail 20 -F mylogfile.txt
