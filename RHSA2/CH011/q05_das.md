@@ -1,4 +1,4 @@
-Which folders stores all server settings?
+Which folder stores all server settings?
 
 + `etc`
 * `sbin`
