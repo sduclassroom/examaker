@@ -1,8 +1,8 @@
-The combination of keystrokes that quits from a shell.
+The log file related to periodically executed tasks
 
-* `Ctrl+Z`
-* `Ctrl+C`
-* `Ctrl+X`
-+ `Ctrl+D`
-* `Shift+Z`
-* `Ctrl+Alt+Del`
+* /var/log/maillog
+* /var/log/boot.log
+* /var/log/rsyslog
+* /var/log/messages
++ /var/log/cron
+* /var/log/secure
