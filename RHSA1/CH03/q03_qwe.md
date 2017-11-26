@@ -1,8 +1,8 @@
-Reading documentation in
+Which keys does the command 'Display the diroctary of topics' in the info?
 
-* /usr/doc
-+ /usr/share/doc
-* /usr/share/rsyslog/doc
-* /usr/log/doc
-* /usr/share/bc/doc
-* /usr/yum/doc
+* 'b'
++ 'd'
+* 'Page up'
+* 'u'
+* '1G'
+*  'n'
