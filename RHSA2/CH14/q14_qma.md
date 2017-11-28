@@ -1,4 +1,4 @@
-Which `firewall-cmd` command is used for list all available zones?
+Which `firewall-cmd` command is used for getting the list of all available zones?
 * `--get-active-zones`
 * `--list-all-zones`
 * `--list-all`
