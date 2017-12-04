@@ -5,8 +5,3 @@ The directory that contains static, persistent system configuration data.
 * `/home`
 * `/root`
 * `/tmp`
-* `/usr/bin`
-* `/usr/sbin`
-* `/run`
-* `/usr`
-* `/`
