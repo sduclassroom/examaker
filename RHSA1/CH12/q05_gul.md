@@ -4,3 +4,4 @@ What type of advanced file permissions the option –a doesn’t synchronize ?
 + `SELinux`
 * `SLinux`
 * `ASn`
+* `SVLinux`
