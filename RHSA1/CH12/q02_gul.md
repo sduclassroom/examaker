@@ -4,3 +4,4 @@ How to synchronize a folder with a remote system?
 * `su` 
 + `rsync`
 * `scp`
+* `av`
