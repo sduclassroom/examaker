@@ -5,3 +5,4 @@ What of security methods can add a cryptographically strong guarantee that the d
 * `krb5p`
 * `none`
 + `krb5i`
+
