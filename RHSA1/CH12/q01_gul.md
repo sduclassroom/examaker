@@ -4,3 +4,4 @@ How archiving can be compressed?
 * `bz2, xz, gz`
 * `bzip, xzp`
 * `xz, bzip2, bz2`
+* `zx, bzip, bz2`
