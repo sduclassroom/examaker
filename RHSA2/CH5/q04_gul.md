@@ -4,3 +4,4 @@ The complete range of nice levels?
 * `-15 +20`
 * `-19 +20`
 * `+20 +19`
+* `-20 +15`
