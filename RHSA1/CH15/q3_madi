@@ -1,0 +1,7 @@
+Which of the followings provides the virt-install command for creatnig virtual machine?
+
++'python-virtinst'
+*'libvirt'
+*'libvirt-python'
+*'libvirt-manager'
+*'libvirt-client'
