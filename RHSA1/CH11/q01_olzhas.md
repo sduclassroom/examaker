@@ -1,4 +1,4 @@
-1) How to grade your work?
+How to grade your work?
 nice grade
 lab grade
 lab nice grade
