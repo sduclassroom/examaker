@@ -1,0 +1,7 @@
+Which command is used to manage different types of systemd objects, called units?
+
++'systemctl'
+*'systemktl'
+*'systemctl -t help'
+*'xinetd'
+*'systemctl status'
