@@ -4,3 +4,4 @@ A collection of RPM packages and package groups?
 * `version`
 * `release`
 * `GPG signature`
+* `changelog`
