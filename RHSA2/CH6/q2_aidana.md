@@ -4,3 +4,4 @@ When you run this 'getfacl file' ACL operation there will be output like this 'm
 * `display ACL settings on a file`
 + `show the maximum permissions possible for all named users,the group-owner and named-groups`
 * `show the initial maximum permissions possible for all new files or directories created that have named user ACLs`
+* `delete the permissions possible for all new files or directories created that have named user ACLs`
