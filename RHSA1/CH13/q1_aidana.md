@@ -1,4 +1,5 @@
 How are RPM package files named?
+
 + `name-version-release.architecture`
 * `name-release-version.architecture`
 * `version-architecture-release.name`
