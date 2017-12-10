@@ -4,3 +4,4 @@ How are RPM package files named?
 + `name-version-release.architecture`
 * `version-architecture-release.name`
 * `version-architecture-architecture.name`
+* `name-architecture-version.release`
