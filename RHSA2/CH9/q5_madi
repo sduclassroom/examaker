@@ -4,3 +4,4 @@ Which command runs the disk device to force re-read of its partition table?
 *'fdisk'
 *'gdisk'
 *'vdb'
+*'vdbn'
