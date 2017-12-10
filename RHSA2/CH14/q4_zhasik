@@ -1,0 +1,7 @@
+Which zone name's default configuration is: reject all incoming traffic unless related to outgoing traffic?
+
++'block'
+*'dmz'
+*'drop'
+*'work'
+*'home'
