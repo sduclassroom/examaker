@@ -1,7 +1,7 @@
 A collection of RPM packages and package groups? 
 
-+ `repository`
 * `version`
++ `repository`
 * `release`
 * `GPG signature`
 * `changelog`
