@@ -4,3 +4,4 @@ Which commmand is enable and disable repositories?
 * `yum --nogpgcheck`
 + `yum-config-manager`
 * `yum repolist all`
+* `yum repolist enable || disable`
