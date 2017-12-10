@@ -1,0 +1,7 @@
+Which task's command is to view detailed information about a unit state?
+
++'systemctl status unit'
+*'systemctl stop unit'
+*'systemctl start unit'
+*'systemctl restart unit'
+*'systemctl unmask unit'
