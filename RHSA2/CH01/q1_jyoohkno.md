@@ -3,3 +3,4 @@ Specifies the location for the installation media:
  * repo
  * loc
  * location --
+ * address
