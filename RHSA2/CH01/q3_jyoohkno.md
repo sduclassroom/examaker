@@ -3,3 +3,4 @@ Clears the specified partitions before installation:
  * clear-all
  * remove --
  * drop
+ * redownload
