@@ -1,0 +1,7 @@
+ Which of the followings creates a domain from an XML configuration file and start it?
+ 
+ +'create'
+ *'define'
+ *'undefine'
+ *'console'
+ *'edit'

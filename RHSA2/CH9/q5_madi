@@ -1,0 +1,7 @@
+Which command runs the disk device to force re-read of its partition table?
+
++'Partprobe'
+*'fdisk'
+*'gdisk'
+*'vdb'
+*'vdbn'
