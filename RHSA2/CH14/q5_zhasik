@@ -1,0 +1,7 @@
+Which firewall-cmd commands' explanation is: list all available zones?
+
++'--get-zones'
+*'--active-zones'
+*'--default-zone'
+*'--list-all-zones'
+*'--reload'
